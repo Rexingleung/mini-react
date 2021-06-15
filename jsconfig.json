@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "./build/",
+    "sourceMap": true, // 开启sourcemap
+    "module": "commonjs",
+    "target": "es5",
+    "js": "react",
+    "esModuleInterop": true,
+    "allowJs": true,
+    "strict": true
+  }
+}
